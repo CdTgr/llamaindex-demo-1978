@@ -2,7 +2,7 @@
 
 This is a demo project for the issue [#1978](https://github.com/run-llama/LlamaIndexTS/issues/1978) in llamaindex.
 
-# How to run
+# How to run [ throws error ]
 
 Clone the project and run the following commands.
 
@@ -10,4 +10,13 @@ Clone the project and run the following commands.
 yarn install
 yarn build
 node dist/index.js
+```
+
+# Try with tsx [ works ]
+
+Clone the project and run the folliwing commands.
+
+```sh
+yarn install
+yarn run dev
 ```
