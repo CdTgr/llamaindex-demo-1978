@@ -8,5 +8,6 @@ Clone the project and run the following commands.
 
 ```sh
 yarn install
-yarn run dev
+yarn build
+node dist/index.js
 ```
